@@ -6,7 +6,7 @@ export default function Developer() {
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    const userId = 'YOUR_DISCORD_ID'
+    const userId = '973392064198873099'
 
     const fetchLanyard = async () => {
       try {
